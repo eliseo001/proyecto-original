@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8e627ff.chunk.css",
+    "main.js": "/static/js/main.542a0044.chunk.js",
+    "main.js.map": "/static/js/main.542a0044.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a28d872.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a28d872.js.map",
+    "static/js/2.fdd1b8bb.chunk.js": "/static/js/2.fdd1b8bb.chunk.js",
+    "static/js/2.fdd1b8bb.chunk.js.map": "/static/js/2.fdd1b8bb.chunk.js.map",
+    "static/js/3.bf8e22b1.chunk.js": "/static/js/3.bf8e22b1.chunk.js",
+    "static/js/3.bf8e22b1.chunk.js.map": "/static/js/3.bf8e22b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b8e627ff.chunk.css.map": "/static/css/main.b8e627ff.chunk.css.map",
+    "static/js/2.fdd1b8bb.chunk.js.LICENSE.txt": "/static/js/2.fdd1b8bb.chunk.js.LICENSE.txt",
+    "static/media/Proyectos.css": "/static/media/pidogs.2b876afc.png",
+    "static/media/Contacto.css": "/static/media/fondo.0be2b97a.jpg",
+    "static/media/LandingPage.css": "/static/media/perfil.672facef.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a28d872.js",
+    "static/js/2.fdd1b8bb.chunk.js",
+    "static/css/main.b8e627ff.chunk.css",
+    "static/js/main.542a0044.chunk.js"
+  ]
+}

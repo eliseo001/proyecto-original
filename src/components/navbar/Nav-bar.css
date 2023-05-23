@@ -1,0 +1,32 @@
+
+.navlink{
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 70%;
+  }
+  
+  nav li{
+    
+    display:inline;
+    margin-bottom: 20px;
+    margin: 0 0 0 15px;
+    color: aliceblue;
+    }
+    nav{
+        width: 50%;
+        position: absolute;
+        top: 50px;
+        right: 0px;
+    }
+    nav a{
+        text-transform: uppercase;
+        /* color: #F0E3CA; */
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+        color:#FF8303;
+    }
+    nav a:hover{
+        color: #c78c19;
+    }   
+  

@@ -12,8 +12,8 @@ export default function NavBar(props) {
         <nav className="navlink">
         <ul>
           <li><a className="link" href="./">Home</a></li>
-          <li><NavLink  to ="/proyectos"><a className="link">proyectos</a></NavLink></li>
-          <li><NavLink  to ="/contacto"><a className="link">Contactame</a></NavLink></li>
+          <li><NavLink  to ="/proyectos">Poryectos</NavLink></li>
+          <li><NavLink  to ="/contacto">Contactame</NavLink></li>
           <li><button onClick={toggleDarkMode}>{darkMode ? 'dark⚫' : '⚪light'} </button></li>
           {/* <li><button onClick={() => toggleDarkMode()}></button></li> */}
         </ul>

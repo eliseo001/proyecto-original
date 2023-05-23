@@ -41,7 +41,6 @@ const modeClass = darkMode ? 'dark-mode' : 'light-mode';
                                <h2 className="Title">Aca pueden observar algunos de mis proyectos realizados </h2>
                               
                                 
-                                  <a class="para"></a>
                               </div>
 
                       
